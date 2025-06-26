@@ -6,81 +6,74 @@ I'm **Russi Hersiano**, also known as **Her-Droid**, a passionate **Mobile App D
 
 ### 👨‍💻 Currently:
 - 💼 Working as a **Mobile Flutter Developer** at **PT Monarch Inti Teknologi**
-- 📱 Building mobile apps using **Flutter** with **state management patterns** like **Provider**, **GetX**, and **BLoC**
-- 💉 Implementing **Dependency Injection** using **get_it** to build scalable and testable architectures
-- 🔗 Integrating **RESTful APIs**, **Firebase**, and **third-party SDKs** into production-grade mobile apps
-- 🤝 Collaborating with designers, engineers, and clients to deliver impactful mobile experiences
+- ⚙️ Focused on building scalable mobile apps with **state management (Provider, GetX, BLoC)** and clean **dependency injection using get_it**, alongside seamless **REST API** integration
+- 📱 Experienced in delivering apps across **banking, fintech, HRIS, and educational platforms**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### Languages & Frameworks
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" />
-
-#### State Management & Architecture
-<img src="https://img.shields.io/badge/GetX-4B3263?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/BLoC-3982f7?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Provider-5C6BC0?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/get_it-5E35B1?style=flat-square&logo=dart&logoColor=white" />
-
-#### Backend & Cloud
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-00BCD4?style=flat-square&logo=api&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-
-#### Tools & DevOps
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-
----
-
-### 🧠 Interests
-- 📲 Cross-platform Mobile App Development
-- 🤖 AI & Computer Vision (YOLOv5, OpenCV, PyTorch)
-- 🔐 Mobile App Security (SAST, Penetration Testing, Reverse Engineering)
-- 🎨 UI/UX Design and Prototyping (Figma)
-- 🚀 Open Source Projects & Tech Startups
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Provider-5C6BC0?style=for-the-badge&logo=flutter&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/GetX-4B3263?style=for-the-badge&logo=flutter&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/BLoC-3982f7?style=for-the-badge&logo=flutter&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/get_it-5E35B1?style=for-the-badge&logo=dart&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/REST%20API-00BCD4?style=for-the-badge&logo=api&logoColor=white" /></td>
+  </tr>
+</table>
 
 ---
 
 ### 💡 Featured Projects
 
-#### 🧾 HRIS Management System — [PT. Srikandi Lestari Indonesia]
-Flutter-based HR platform with features like:
+#### 🧾 HRIS Management System — PT. Srikandi Lestari Indonesia
+Flutter-based HR platform with:
 - GPS & QR Attendance
-- Leave Request & Evaluation
-- Payslip & Ticketing
-- Clean Architecture & Secure API Auth
+- Leave Requests & Payslip Access
+- JWT & OAuth Auth System
+- Clean Architecture & Laravel Backend Integration
 
-#### 🔐 LAPANANAM.AI (Security Patrol System)
-- Built for security personnel & law enforcement
-- Real-time NFC/QR scan, SOS alert, media reporting
-- Flutter (mobile), Next.js (web), FastAPI (backend)
+#### 🔐 LAPANANAM.AI – Guard Patrol Management
+- Built in Flutter for Android/iOS
+- Real-time QR/NFC patrol, SOS alert, audio/image upload
+- FastAPI backend with MySQL
+- Replaced traditional guard tools with smartphone-based app
 
-#### 🎓 LMS App — [University Prasetiya Mulya]
-- Integrated with Moodle & PHP API
-- Features: Class Schedule, GPA, Notifications
-- Built using Flutter + GetX + MVP pattern
+#### 🎓 LMS App – University Prasetiya Mulya
+- Integrated Moodle + PHP API
+- Class scheduling, GPA tracking, push notification
+- Flutter + GetX + MVP pattern
 
-#### 🛠️ Azisten App
-- On-demand service marketplace app (Flutter)
-- Real-time task assignment, admin dashboard
-- Laravel backend + Firebase + GetX state management
+#### 🛠️ Azisten App – Service Management
+- Flutter + Laravel backend
+- Real-time task assignment, multi-role system
+- GetX state management with scalable UI/UX
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Her-Droid&show_icons=true&locale=en&layout=compact" alt="Her-Droid" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Her-Droid&show_icons=true&locale=en" alt="Her-Droid" /></p>
